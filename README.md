@@ -1,6 +1,7 @@
-## Hi there 👋
-- I am currently working as a Cloud Engineer at Foxconn based in Kaohsiung, Taiwan.
+## Hello wonderer 👋
 - I am currently playing with LLM and Google's Generative AI
+- Hit me up if you're interesting in working on a project together!
+- You can reach me at jeffreyw200068@gmail.com
 
 <!--
 **yuchieh8968/yuchieh8968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
